@@ -6,3 +6,4 @@ matplotlib
 statsmodels
 numpy==1.26.4
 scipy
+opencv-python
