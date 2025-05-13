@@ -2,3 +2,5 @@ venv
 images_dataset
 DSET1
 CIFAR10
+*.json
+tests
